@@ -1,1 +1,17 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 
+th, td{
+    padding: 10px;
+}
+
+form {
+    margin-top: 20px;
+    border: 5px solid rgb(146, 29, 130);
+}
+label, input{
+    margin: 5px;
+
+}
